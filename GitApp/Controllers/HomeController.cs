@@ -18,6 +18,11 @@ namespace GitApp.Controllers
             
         }
 
+        public void foo()
+        {
+            
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
